@@ -15,6 +15,7 @@ I’m a committed and ambitious Computer Science enthusiast, currently honing my
 - Node.js (basics)
 - Cloud (basics)
 - AI (familiar with writing prompts and working with AI, particularly ChatGPT, for fast development)
+- GIT
 
 ### Academic Background
 
